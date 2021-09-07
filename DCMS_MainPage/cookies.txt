@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+etc.magnetmarketing.in	TRUE	/	FALSE	1999999999	16e1723bcf4299dd0b700ae4d874b54b	6em51vl6gjkbaifgb7fgte1dq5
+etc.magnetmarketing.in	TRUE	/	FALSE	1999999999	mautic_session_id	392ef7f07a5ff261b80cc7d6d33e2bc5bf3c6ad1
+etc.magnetmarketing.in	TRUE	/	FALSE	1999999999	392ef7f07a5ff261b80cc7d6d33e2bc5bf3c6ad1	653752
+

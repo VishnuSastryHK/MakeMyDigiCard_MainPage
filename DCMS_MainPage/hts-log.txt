@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 Sep 2021 14:34:09 at https://makemyvcard.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://makemyvcard.com/ -O1 "C:\My Web Sites\DCMS_MainPage" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/wp-content/themes/bb-theme/fonts/glyphicons-halflings-regular.eot (from https://makemyvcard.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.7.4.1)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/wp-content/themes/bb-theme/fonts/glyphicons-halflings-regular.eot? (from https://makemyvcard.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.7.4.1)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/wp-content/themes/bb-theme/fonts/glyphicons-halflings-regular.woff2 (from https://makemyvcard.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.7.4.1)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/wp-content/themes/bb-theme/fonts/glyphicons-halflings-regular.woff (from https://makemyvcard.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.7.4.1)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/wp-content/themes/bb-theme/fonts/glyphicons-halflings-regular.ttf (from https://makemyvcard.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.7.4.1)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/wp-content/themes/bb-theme/fonts/glyphicons-halflings-regular.svg (from https://makemyvcard.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.7.4.1)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+14:35:45	Warning: 	Moved Permanently for https://makemyvcard.com/chrome-extension://
+14:35:45	Warning: 	Redirected link is identical because of 'URL Hack' option: https://makemyvcard.com/chrome-extension:// and https://makemyvcard.com/chrome-extension:/
+14:35:45	Warning: 	File has moved from https://makemyvcard.com/chrome-extension:// to https://makemyvcard.com/chrome-extension:/
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/restserver.php (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+14:35:45	Error: 	"Not Found" (404) at link https://makemyvcard.com/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+14:35:45	Warning: 	Moved Permanently for https://makemyvcard.com/?p=2616
+14:35:45	Warning: 	File has moved from https://makemyvcard.com/?p=2616 to https://makemyvcard.com/digital-business-card-features/
+14:35:46	Warning: 	Moved Permanently for https://makemyvcard.com/?p=3442
+14:35:46	Warning: 	File has moved from https://makemyvcard.com/?p=3442 to https://makemyvcard.com/sample-vcards-and-contact-cards/
+14:35:46	Warning: 	Moved Permanently for https://makemyvcard.com/?p=3055
+14:35:46	Warning: 	File has moved from https://makemyvcard.com/?p=3055 to https://makemyvcard.com/create-digital-business-card-maker-app/
+14:35:46	Warning: 	Moved Permanently for https://makemyvcard.com/?p=3027
+14:35:46	Warning: 	File has moved from https://makemyvcard.com/?p=3027 to https://makemyvcard.com/contact/
+14:35:47	Warning: 	Moved Permanently for https://makemyvcard.com/?p=2814
+14:35:47	Warning: 	File has moved from https://makemyvcard.com/?p=2814 to https://makemyvcard.com/business-card-templates/
+14:35:47	Warning: 	Moved Permanently for https://makemyvcard.com/?p=2805
+14:35:47	Warning: 	File has moved from https://makemyvcard.com/?p=2805 to https://makemyvcard.com/personal-vcard-templates/
+14:35:47	Warning: 	Moved Permanently for https://makemyvcard.com/?p=2759
+14:35:47	Warning: 	File has moved from https://makemyvcard.com/?p=2759 to https://makemyvcard.com/white-label-reseller-software/
+14:35:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://makemyvcard.com/wp-includes/js/mediaelement/mejs-controls.svg (from https://makemyvcard.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 39 seconds : 208 links scanned, 186 files written (56537124 bytes overall) [51174418 bytes received at 516913 bytes/sec], 7881076 bytes transferred using HTTP compression in 128 files, ratio 27%, 7.8 requests per connection
+(12 errors, 18 warnings, 0 messages)
